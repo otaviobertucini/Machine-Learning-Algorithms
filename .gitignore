@@ -2,3 +2,5 @@ datasets/
 venv/
 .ipynb_checkpoints/
 .idea
+*.png
+*.pyc
