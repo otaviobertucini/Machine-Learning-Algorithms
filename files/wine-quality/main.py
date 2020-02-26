@@ -9,7 +9,7 @@ data = open_cvs('/home/otavio/ml/datasets/wine-quality/winequality-red.csv')
 data['fa_split'] = np.ceil(data['fixed acidity'])
 data['ph_acidity'] = (data['pH']*data['volatile acidity'])/(data['alcohol'])
 data['alcohol_acidity'] = (data['alcohol']/data['volatile acidity'])
-data['']
+data['citric_acidity'] = data['citric acid'] / data['volatile acidity']
 
 split = StratifiedShuffleSplit(n_splits=1, test_size=0.2, random_state=42)
 for train_index, test_index in split.split(data, data['fa_split']):
