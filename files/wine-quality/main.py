@@ -1,10 +1,9 @@
 from utils.utils import open_cvs
 import matplotlib.pyplot as plt
-from sklearn.model_selection import StratifiedShuffleSplit
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 from sklearn.tree import DecisionTreeRegressor
-from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import cross_val_score, GridSearchCV, StratifiedShuffleSplit
 from sklearn.ensemble import RandomForestRegressor
 import numpy as np
 from pandas.plotting import scatter_matrix
@@ -101,6 +100,25 @@ def prepare_data():
     print("STD: ", rmse_scores_forest.std())
 
     print("--------------------------")
+    print("Model evaluation")
+    param_grid = [
+        {'n_estimators': [3, 10, 30], 'max_features': [2, 4, 6, 8]},
+        {'bootstrap': [False], 'n_estimators': [3, 10], 'max_features': [2, 3, 4]}
+    ]
 
+    forest_reg_grid = RandomForestRegressor()
+    grid_search = GridSearchCV(forest_reg_grid, param_grid, cv=5, scoring='neg_mean_squared_error')
+
+    grid_search.fit(train_data, labels)
+
+    print(grid_search.best_params_)
+    print(grid_search.best_estimator_)
+
+    final_model = grid_search.best_estimator_
+    test_labels = test_set['quality'].copy()
+
+    final_predictions = final_model.predict(test_set.drop('quality', axis=1))
+    final_mse = mean_squared_error(test_labels, final_predictions)
+    print("Final mse: " + str(np.sqrt(final_mse)))
 
 prepare_data()
