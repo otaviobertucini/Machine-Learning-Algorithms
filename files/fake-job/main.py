@@ -11,4 +11,4 @@ data = open_cvs('/home/otavio/ml/datasets/fake-job/fake_job_postings.csv')
 train_set, test_set = train_test_split(data, test_size=0.2, random_state=42)
 
 sgd_clf = SGDClassifier(random_state=42)
-sgd_clf.fit(train_set.drop('fraudulent', 1), train_set['fraudulent'])cd
+sgd_clf.fit(train_set.drop('fraudulent', 1), train_set['fraudulent'])
