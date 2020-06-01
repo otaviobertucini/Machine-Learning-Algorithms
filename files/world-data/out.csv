@@ -1,0 +1,13 @@
+Entity,Code_x,Year,"Life expectancy at birth, total (years) (years)",Region,SubRegion,Name,Code_y,PT,ImageURL
+Argentina,ARG,2016,76.577,Americas,South America,Argentina,AR,Argentina,https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg
+Bolivia,BOL,2016,69.125,Americas,South America,Bolivia,BO,Bolívia,https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg
+Brazil,BRA,2016,75.509,Americas,South America,Brazil,BR,Brasil,https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg
+Chile,CHL,2016,79.52199999999999,Americas,South America,Chile,CL,Chile,https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg
+Colombia,COL,2016,74.381,Americas,South America,Colombia,CO,Colômbia,https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg
+Ecuador,ECU,2016,76.327,Americas,South America,Ecuador,EC,Equador,https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg
+Guyana,GUY,2016,66.65,Americas,South America,Guyana,GY,Guiana,https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg
+Paraguay,PRY,2016,73.12,Americas,South America,Paraguay,PY,Paraguai,https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg
+Peru,PER,2016,74.983,Americas,South America,Peru,PE,Peru,https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg
+Suriname,SUR,2016,71.405,Americas,South America,Suriname,SR,Suriname,https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg
+Uruguay,URY,2016,77.493,Americas,South America,Uruguay,UY,Uruguai,https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg
+Venezuela,VEN,2016,74.545,Americas,South America,Venezuela,VE,Venezuela,https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg
