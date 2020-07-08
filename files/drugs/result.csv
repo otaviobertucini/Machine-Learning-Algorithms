@@ -1,0 +1,92 @@
+Country,PT,Best,Crime Index,Safety Index,Entity,Code,Year,Anxiety Rate
+Afghanistan,Afeganistão,4.28,76.23,23.77,Afghanistan,AFG,2017,4.882481274730001
+Albania,Albânia,5.6,39.52,60.48,Albania,ALB,2017,3.38524453734
+Algeria,Argélia,0.52,49.81,50.19,Algeria,DZA,2017,5.06587568443
+Argentina,Argentina,8.13,61.77,38.23,Argentina,ARG,2017,6.283677860599999
+Armenia,Armênia,3.5,21.6,78.4,Armenia,ARM,2017,2.59281282375
+Australia,Austrália,10.4,41.36,58.64,Australia,AUS,2017,6.5843011771399995
+Austria,Áustria,6.4,23.73,76.27,Austria,AUT,2017,5.341275395249999
+Azerbaijan,Azerbaijão,3.5,31.61,68.39,Azerbaijan,AZE,2017,2.5831567362
+Bahamas,Bahamas,3.1,62.86,37.14,Bahamas,BHS,2017,4.65502415943
+Bangladesh,Bangladesh,3.3,63.94,36.06,Bangladesh,BGD,2017,4.28398850162
+Belarus,Belarus,1.07,24.99,75.01,Belarus,BLR,2017,2.94693198625
+Belgium,Bélgica,4.6,43.98,56.02,Belgium,BEL,2017,5.21264464436
+Bolivia,Bolívia,2.06,52.93,47.07,Bolivia,BOL,2017,4.2436251608
+Brazil,Brasil,2.5,68.88,31.12,Brazil,BRA,2017,6.069179504219999
+Bulgaria,Bulgária,4.2,38.5,61.5,Bulgaria,BGR,2017,3.58752080114
+Cambodia,Camboja,3.5,50.66,49.34,Cambodia,KHM,2017,3.28974518826
+Canada,Canadá,14.8,39.67,60.33,Canada,CAN,2017,5.17821839452
+Chile,Chile,13.33,45.23,54.77,Chile,CHL,2017,6.272084313350001
+Colombia,Colômbia,3.27,54.79,45.21,Colombia,COL,2017,2.51480277253
+Costa Rica,Costa Rica,5.18,56.33,43.67,Costa Rica,CRI,2017,2.93682933508
+Croatia,Croácia,7.9,24.71,75.29,Croatia,HRV,2017,3.44760593314
+Cyprus,Chipre,2.2,30.01,69.99,Cyprus,CYP,2017,5.30490840366
+Denmark,Dinamarca,6.4,25.1,74.9,Denmark,DNK,2017,5.31463454993
+Dominican Republic,República Dominicana,0.68,61.16,38.84,Dominican Republic,DOM,2017,4.55830898989
+Ecuador,Equador,0.67,50.9,49.1,Ecuador,ECU,2017,4.305357159080001
+Egypt,Egito,5.31,46.92,53.08,Egypt,EGY,2017,4.3610228071699995
+El Salvador,El Salvador,2.03,67.96,32.04,El Salvador,SLV,2017,2.94522037622
+Estonia,Estônia,6.59,23.14,76.86,Estonia,EST,2017,2.96224376542
+Fiji,Fiji,5.08,58.92,41.08,Fiji,FJI,2017,3.28244749356
+Finland,Finlândia,6.8,23.32,76.68,Finland,FIN,2017,3.7520618777999997
+France,França,11.0,46.79,53.21,France,FRA,2017,6.62671021127
+Georgia,Georgia,3.4,20.21,79.79,Georgia,GEO,2017,2.60245566113
+Germany,Alemanha,7.09,34.81,65.19,Germany,DEU,2017,6.540495803400001
+Greece,Grécia,2.8,40.32,59.68,Greece,GRC,2017,5.790227945270001
+Guatemala,Guatemala,4.8,57.83,42.17,Guatemala,GTM,2017,2.90694665082
+Guyana,Guiana,4.6,67.66,32.34,Guyana,GUY,2017,4.54702700731
+Honduras,Honduras,0.83,76.11,23.89,Honduras,HND,2017,2.87555135458
+Hungary,Hungria,1.53,35.08,64.92,Hungary,HUN,2017,3.45465662543
+Iceland,Islândia,5.8,23.36,76.64,Iceland,ISL,2017,5.29098780078
+India,Índia,2.83,43.32,56.68,India,IND,2017,3.30193892533
+Indonesia,Indonésia,0.18,45.84,54.16,Indonesia,IDN,2017,3.28021979233
+Ireland,Irlanda,7.7,45.43,54.57,Ireland,IRL,2017,5.83909248469
+Israel,Israel,27.0,29.6,70.4,Israel,ISR,2017,3.0630780728700002
+Italy,Itália,10.21,44.26,55.74,Italy,ITA,2017,5.6261210650499995
+Jamaica,Jamaica,18.0,66.04,33.96,Jamaica,JAM,2017,4.57752755949
+Japan,Japão,0.03,20.66,79.34,Japan,JPN,2017,3.5690542848800004
+Kazakhstan,Cazaquistão,2.4,62.02,37.98,Kazakhstan,KAZ,2017,2.60780551267
+Kenya,Quênia,1.2,61.66,38.34,Kenya,KEN,2017,3.64335282449
+Kuwait,Kuweit,3.1,34.75,65.25,Kuwait,KWT,2017,4.96727934915
+Latvia,Letônia,4.2,36.95,63.05,Latvia,LVA,2017,2.9449498166000003
+Lebanon,Líbano,2.0,43.36,56.64,Lebanon,LBN,2017,6.0743555568400005
+Lithuania,Lituânia,2.7,33.06,66.94,Lithuania,LTU,2017,2.93722416551
+Luxembourg,Luxemburgo,4.9,33.39,66.61,Luxembourg,LUX,2017,5.316516035169999
+Malaysia,Malásia,1.6,58.84,41.16,Malaysia,MYS,2017,4.34078252552
+Maldives,Maldivas,2.55,53.21,46.79,Maldives,MDV,2017,3.1651318683
+Malta,Malta,0.9,39.04,60.96,Malta,MLT,2017,5.317984357559999
+Mauritius,Mauritius,1.08,47.33,52.67,Mauritius,MUS,2017,3.32296345698
+Mexico,México,2.1,53.97,46.03,Mexico,MEX,2017,3.18632641167
+Montenegro,Montenegro,4.6,41.18,58.82,Montenegro,MNE,2017,3.42396654405
+Morocco,Marrocos,10.47,48.69,51.31,Morocco,MAR,2017,4.98682555348
+Myanmar,Myanmar,0.94,45.86,54.14,Myanmar,MMR,2017,3.3139358352900006
+Netherlands,Países Baixos,9.2,27.62,72.38,Netherlands,NLD,2017,6.62024219421
+New Zealand,Nova Zelândia,11.9,40.93,59.07,New Zealand,NZL,2017,8.5399314968
+Nicaragua,Nicarágua,1.07,44.44,55.56,Nicaragua,NIC,2017,2.9123000307599995
+Nigeria,Nigéria,10.76,63.77,36.23,Nigeria,NGA,2017,2.91583696522
+Norway,Noruega,5.4,35.43,64.57,Norway,NOR,2017,7.58550276017
+Pakistan,Paquistão,3.6,44.08,55.92,Pakistan,PAK,2017,3.82337920939
+Panama,Panamá,0.77,47.19,52.81,Panama,PAN,2017,2.89177947043
+Paraguay,Paraguai,1.6,49.6,50.4,Paraguay,PRY,2017,6.015213898740001
+Peru,Peru,1.03,68.15,31.85,Peru,PER,2017,4.2599252857800005
+Philippines,Filipinas,1.64,42.16,57.84,Philippines,PHL,2017,3.2697201626
+Poland,Polônia,3.8,28.5,71.5,Poland,POL,2017,3.4610750157699997
+Portugal,Portugal,5.1,29.63,70.37,Portugal,PRT,2017,5.383260631540001
+Puerto Rico,,4.88,65.63,34.37,Puerto Rico,PRI,2017,4.68365385328
+Romania,Romênia,3.2,27.64,72.36,Romania,ROU,2017,3.22718570523
+Saudi Arabia,Arábia Saudita,0.3,26.18,73.82,Saudi Arabia,SAU,2017,4.754236342
+Serbia,Sérvia,1.6,37.41,62.59,Serbia,SRB,2017,3.4046716369300003
+Slovakia,Eslováquia,4.3,29.22,70.78,Slovakia,SVK,2017,3.4442511077900004
+Slovenia,Eslovenia,4.4,21.07,78.93,Slovenia,SVN,2017,3.4497727209900004
+South Africa,África do Sul,3.65,77.49,22.51,South Africa,ZAF,2017,3.99282996296
+Spain,Espanha,11.0,31.96,68.04,Spain,ESP,2017,5.280278593459999
+Sri Lanka,Sri Lanka,1.9,40.22,59.78,Sri Lanka,LKA,2017,3.3699170957500004
+Sweden,Suécia,3.9,47.07,52.93,Sweden,SWE,2017,5.293836610990001
+Switzerland,Suíça,9.09,21.6,78.4,Switzerland,CHE,2017,5.35939314075
+Thailand,Tailândia,1.33,40.48,59.52,Thailand,THA,2017,3.3295938793200004
+Tunisia,Tunísia,2.6,41.88,58.12,Tunisia,TUN,2017,5.07236144012
+Turkey,Peru,1.11,39.49,60.51,Turkey,TUR,2017,3.91340044095
+Ukraine,Ucrânia,2.13,48.85,51.15,Ukraine,UKR,2017,2.941769565
+United Arab Emirates,Emirados Árabes Unidos,5.35,15.7,84.3,United Arab Emirates,ARE,2017,4.26391204861
+Uruguay,Uruguai,14.6,53.81,46.19,Uruguay,URY,2017,6.31773765248
+Venezuela,Venezuela,1.56,84.49,15.51,Venezuela,VEN,2017,2.8667893133
